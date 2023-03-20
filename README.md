@@ -19,7 +19,6 @@ https://www.youtube.com/@DaveGrayTeachesCode
 
 ### 3. The React App component <程式碼更動>
        修改 default project 上的文字。
-
        如何匯入 App.css ?
        如何匯出 App.js 至 index.js ?
        如何指派變數 name 於 function component 中?
@@ -28,17 +27,23 @@ https://www.youtube.com/@DaveGrayTeachesCode
 ### 4. JSX = JavaScript and XML 
        思考 JSX 與 HTML、CSS、JavaScript的相同與相異處。
        說明 function component 的 HTML element。
-       說明 function component 中 HTML element的Atribute。
+       說明 function component 中 HTML element 的 Atribute。
        哪個部分能匯入圖片於 default project ?
 
-### 5. React renders data in JSX as text 
+### 5. React renders data in JSX as text  <程式碼更動>
+       在 function component 中新增 p element時，能輸入的資料型態有哪些?
+       哪些是 HTML 語法?
+       哪些是 JavaScript 語法?
        
-
 ### 6. Adding comments to JSX
-       
+       要如何快速備註?
 
-### 7. Inserting Javascript Expressions into JSX
-       
+### 7. Inserting Javascript Expressions into JSX  <程式碼更動>
+       修改 default project 上的文字為哈囉世界!
+       修改 default project 上的文字為哈囉和回傳變數 name 為作者的名字。
+       修改 default project 上的文字為哈囉和回傳三個可以隨機變換的名字。
+
+
 
 # Getting Started with Create React App
 
